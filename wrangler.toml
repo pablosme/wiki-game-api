@@ -1,0 +1,7 @@
+name = "wikipedia-game-api"
+main = "src/index.ts"
+compatibility_date = "2025-02-01"
+
+[vars]
+WIKIMEDIA_USER_AGENT = "wikipedia-game-api/0.1.0 (https://github.com/wikipedia-game)"
+# Em produção no Cloudflare Workers, defina JWT_SECRET via `wrangler secret put JWT_SECRET`

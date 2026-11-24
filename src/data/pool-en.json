@@ -1,0 +1,570 @@
+[
+  {
+    "title": "Pam Bondi",
+    "pageId": 4550623,
+    "views": 1800236,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "Culture.Biography.Biography*",
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "Lists of deaths by year",
+    "pageId": 36258669,
+    "views": 1800236,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "History_and_Society.History",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Wicked: For Good",
+    "pageId": 70640386,
+    "views": 1800236,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films"
+    ]
+  },
+  {
+    "title": "Wicked (2024 film)",
+    "pageId": 60455274,
+    "views": 333229,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films"
+    ]
+  },
+  {
+    "title": "Wicked (musical)",
+    "pageId": 1678965,
+    "views": 247213,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Music"
+    ]
+  },
+  {
+    "title": "Matt Gaetz",
+    "pageId": 38902978,
+    "views": 226331,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "History_and_Society.Politics_and_government",
+      "Culture.Biography.Biography*",
+      "Geography.Regions.Americas.North_America"
+    ]
+  },
+  {
+    "title": "2024 United States presidential election",
+    "pageId": 59568546,
+    "views": 154677,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "History_and_Society.Politics_and_government",
+      "Geography.Regions.Americas.North_America"
+    ]
+  },
+  {
+    "title": "Cynthia Erivo",
+    "pageId": 48453494,
+    "views": 144268,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Biography.Biography*",
+      "Culture.Media.Music"
+    ]
+  },
+  {
+    "title": "Jameis Winston",
+    "pageId": 36099568,
+    "views": 134771,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Sports",
+      "Culture.Biography.Biography*",
+      "Geography.Regions.Americas.North_America"
+    ]
+  },
+  {
+    "title": "Cleopatra",
+    "pageId": 60827,
+    "views": 115413,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "History_and_Society.History",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Kendrick Lamar",
+    "pageId": 29909823,
+    "views": 107628,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Music"
+    ]
+  },
+  {
+    "title": "Pete Hegseth",
+    "pageId": 34076202,
+    "views": 103656,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Gladiator (2000 film)",
+    "pageId": 3616797,
+    "views": 103224,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Films",
+      "Culture.Media.Media*"
+    ]
+  },
+  {
+    "title": "Ariana Grande",
+    "pageId": 25276055,
+    "views": 97314,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Music",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Elon Musk",
+    "pageId": 909036,
+    "views": 88181,
+    "inDegree": 500,
+    "tier": 1,
+    "topics": [
+      "STEM.STEM*"
+    ]
+  },
+  {
+    "title": "Donald Trump",
+    "pageId": 4848272,
+    "views": 87300,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "International Criminal Court",
+    "pageId": 14880,
+    "views": 83723,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "2024 Maharashtra Legislative Assembly election",
+    "pageId": 67260267,
+    "views": 78875,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Geography.Regions.Asia.South_Asia",
+      "Geography.Regions.Asia.Asia*",
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "ChatGPT",
+    "pageId": 72417803,
+    "views": 72164,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "STEM.STEM*",
+      "STEM.Computing"
+    ]
+  },
+  {
+    "title": "Scott Bessent",
+    "pageId": 38532044,
+    "views": 67285,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "Culture.Biography.Biography*",
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "YouTube",
+    "pageId": 3524766,
+    "views": 64908,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "STEM.STEM*",
+      "STEM.Technology"
+    ]
+  },
+  {
+    "title": "Josh Brolin",
+    "pageId": 909444,
+    "views": 63733,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films",
+      "Geography.Regions.Americas.North_America"
+    ]
+  },
+  {
+    "title": "Bluesky",
+    "pageId": 68656182,
+    "views": 61291,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "STEM.STEM*",
+      "Culture.Internet_culture"
+    ]
+  },
+  {
+    "title": "Mike Tyson",
+    "pageId": 39027,
+    "views": 60245,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Culture.Sports",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Intercontinental ballistic missile",
+    "pageId": 14939,
+    "views": 59976,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "History_and_Society.Military_and_warfare",
+      "STEM.STEM*",
+      "STEM.Technology"
+    ]
+  },
+  {
+    "title": "2020 United States presidential election",
+    "pageId": 48410011,
+    "views": 58804,
+    "inDegree": 500,
+    "tier": 2,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "Daniel Jones (American football)",
+    "pageId": 55136505,
+    "views": 95223,
+    "inDegree": 471,
+    "tier": 2,
+    "topics": [
+      "Culture.Sports",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Paul Mescal",
+    "pageId": 62233457,
+    "views": 57743,
+    "inDegree": 434,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films",
+      "Geography.Regions.Europe.Northern_Europe"
+    ]
+  },
+  {
+    "title": "Liam Payne",
+    "pageId": 40605906,
+    "views": 101619,
+    "inDegree": 429,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Music",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Linda McMahon",
+    "pageId": 679668,
+    "views": 92976,
+    "inDegree": 417,
+    "tier": 2,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Conor McGregor",
+    "pageId": 38738224,
+    "views": 87872,
+    "inDegree": 409,
+    "tier": 2,
+    "topics": [
+      "Culture.Sports",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Wicked (Maguire novel)",
+    "pageId": 1240426,
+    "views": 59760,
+    "inDegree": 318,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Literature"
+    ]
+  },
+  {
+    "title": "GNX (album)",
+    "pageId": 78373166,
+    "views": 266992,
+    "inDegree": 317,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Music"
+    ]
+  },
+  {
+    "title": "Jonathan Bailey",
+    "pageId": 20502583,
+    "views": 59815,
+    "inDegree": 293,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Biography.Biography*"
+    ]
+  },
+  {
+    "title": "Gladiator II",
+    "pageId": 72682130,
+    "views": 229920,
+    "inDegree": 290,
+    "tier": 2,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films"
+    ]
+  },
+  {
+    "title": "Apple Network Server",
+    "pageId": 3526866,
+    "views": 56112,
+    "inDegree": 286,
+    "tier": 3,
+    "topics": [
+      "Culture.Media.Media*",
+      "STEM.STEM*",
+      "STEM.Technology"
+    ]
+  },
+  {
+    "title": "RS-26 Rubezh",
+    "pageId": 45084772,
+    "views": 60225,
+    "inDegree": 241,
+    "tier": 3,
+    "topics": [
+      "History_and_Society.Military_and_warfare",
+      "Geography.Regions.Europe.Eastern_Europe",
+      "Geography.Regions.Europe.Europe*"
+    ]
+  },
+  {
+    "title": "XXX (2002 film)",
+    "pageId": 415156,
+    "views": 79875,
+    "inDegree": 186,
+    "tier": 3,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films"
+    ]
+  },
+  {
+    "title": "2024 MAMA Awards",
+    "pageId": 77479701,
+    "views": 174061,
+    "inDegree": 169,
+    "tier": 3,
+    "topics": [
+      "Geography.Regions.Asia.Asia*",
+      "Geography.Regions.Asia.East_Asia"
+    ]
+  },
+  {
+    "title": "Maura Higgins",
+    "pageId": 68579853,
+    "views": 66910,
+    "inDegree": 168,
+    "tier": 3,
+    "topics": [
+      "Culture.Biography.Biography*",
+      "Culture.Media.Media*"
+    ]
+  },
+  {
+    "title": "Oreshnik (missile)",
+    "pageId": 78416645,
+    "views": 114991,
+    "inDegree": 164,
+    "tier": 3,
+    "topics": [
+      "History_and_Society.Military_and_warfare",
+      "Geography.Regions.Europe.Eastern_Europe",
+      "Geography.Regions.Europe.Europe*"
+    ]
+  },
+  {
+    "title": ".xxx",
+    "pageId": 574533,
+    "views": 81733,
+    "inDegree": 148,
+    "tier": 3,
+    "topics": [
+      "STEM.STEM*",
+      "Culture.Media.Media*",
+      "Culture.Internet_culture"
+    ]
+  },
+  {
+    "title": "Richard Coles",
+    "pageId": 984367,
+    "views": 98701,
+    "inDegree": 135,
+    "tier": 3,
+    "topics": [
+      "Culture.Biography.Biography*",
+      "Geography.Regions.Europe.Northern_Europe"
+    ]
+  },
+  {
+    "title": "Border–Gavaskar Trophy",
+    "pageId": 694370,
+    "views": 56514,
+    "inDegree": 134,
+    "tier": 3,
+    "topics": [
+      "Culture.Sports",
+      "Geography.Regions.Oceania",
+      "Geography.Regions.Asia.South_Asia"
+    ]
+  },
+  {
+    "title": "Methanol toxicity",
+    "pageId": 41828688,
+    "views": 63692,
+    "inDegree": 123,
+    "tier": 3,
+    "topics": [
+      "STEM.STEM*",
+      "STEM.Medicine_&_Health"
+    ]
+  },
+  {
+    "title": "Red One (film)",
+    "pageId": 68070769,
+    "views": 63855,
+    "inDegree": 118,
+    "tier": 3,
+    "topics": [
+      "Culture.Media.Films",
+      "Culture.Media.Media*"
+    ]
+  },
+  {
+    "title": "Kanguva",
+    "pageId": 73562871,
+    "views": 65302,
+    "inDegree": 90,
+    "tier": 3,
+    "topics": [
+      "Culture.Media.Media*",
+      "Culture.Media.Films",
+      "Geography.Regions.Asia.Asia*"
+    ]
+  },
+  {
+    "title": "Murder of Laken Riley",
+    "pageId": 76227828,
+    "views": 254691,
+    "inDegree": 31,
+    "tier": 3,
+    "topics": [
+      "Geography.Regions.Americas.North_America",
+      "Culture.Biography.Biography*",
+      "History_and_Society.Politics_and_government"
+    ]
+  },
+  {
+    "title": "Jyoti Amge",
+    "pageId": 16885604,
+    "views": 74007,
+    "inDegree": 23,
+    "tier": 3,
+    "topics": [
+      "Culture.Biography.Biography*",
+      "Geography.Regions.Asia.Asia*"
+    ]
+  },
+  {
+    "title": "Rumeysa Gelgi",
+    "pageId": 69037281,
+    "views": 126466,
+    "inDegree": 5,
+    "tier": 3,
+    "topics": [
+      "Geography.Regions.Asia.West_Asia",
+      "Geography.Regions.Asia.Asia*",
+      "Culture.Biography.Biography*"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "API: Dev Server (Node.js Watch)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "API: Start Server (Node.js Debug)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["tsx", "src/node.ts"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "API: Cloudflare Workers Dev (Wrangler)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev:cf"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "API: Pipeline Pool (50 artigos)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["tsx", "scripts/build-pool.ts", "--lang=all", "--limit=50"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "API: Pipeline Pool Completa (5000 artigos)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["tsx", "scripts/build-pool.ts", "--lang=all", "--limit=5000"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "API: Run Tests (Vitest)",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "test"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
